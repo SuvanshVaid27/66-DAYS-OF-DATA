@@ -1,0 +1,5 @@
+streamlit==0.73.1
+wordcloud==1.8.1
+matplotlib==1.4.2
+gensim==3.8.1
+
